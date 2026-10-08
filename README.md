@@ -34,95 +34,27 @@ I've also worked on several **freelance projects** using these technologies, whi
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode" />
 </p>
 
----
-
-### 🌐 Socials
-* 🔗 [LinkedIn](https://www.linkedin.com/in/kimiatohidnia)
-* 🔗 Email: [kimiatohidnia@gmail.com](mailto:kimiatohidnia@gmail.com)
-
----
-
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-* C#
 * SQL
-
-**.NET & Backend**
-
-* .NET
 * ASP.NET Core
 * ASP.NET Core MVC
 * Entity Framework Core
 * LINQ
 * RESTful APIs
 * Windows Forms
-
-**Architecture & Development**
-
 * Object-Oriented Programming (OOP)
 * Onion Architecture
 * Clean Architecture
 * Dependency Injection
 * Repository Pattern
 * Design Patterns
-
-**Database**
-
 * Microsoft SQL Server
 * Relational Database Design
 * Entity Framework Core Migrations
-
-**Tools**
-
-* Git
-* GitHub
-* Visual Studio
 * SQL Server Management Studio (SSMS)
 
+---
 
-### 📫 Socials
+### 🌐 Reach Me
+* 🔗 Email: [kimiatohidnia@gmail.com](mailto:kimiatohidnia@gmail.com)
 
-* 💼 LinkedIn: kimiatohidnia
-* 📧 Email: [kimiatohidnia@gmail.com](mailto:kimiatohidnia@gmail.com)
-  
-
-
-
-#### Architecture & Development
-
-* Object-Oriented Programming (OOP)
-* Onion Architecture
-* Clean Architecture
-* Dependency Injection
-* Repository Pattern
-* Design Patterns
-* RESTful APIs
-
-
-* ASP.NET Core
-* ASP.NET Core MVC
-* Entity Framework Core
-* LINQ
-* RESTful APIs
-* Windows Forms
-
-**Architecture & Development**
-
-* Object-Oriented Programming (OOP)
-* Onion Architecture
-* Clean Architecture
-* Dependency Injection
-* Repository Pattern
-* Design Patterns
-
-**Database**
-
-
-* Relational Database Design
-* Entity Framework Core Migrations
-
-
-* SQL Server Management Studio (SSMS)
+---
