@@ -70,7 +70,7 @@ I've also worked on several **freelance projects** using these technologies, whi
 * ### 🛠️ Tech Stack:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,visualstudio,visualstudiocode" />
 </p>
 
 #### Architecture & Development
