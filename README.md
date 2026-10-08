@@ -56,5 +56,3 @@ I've also worked on several **freelance projects** using these technologies, whi
 
 ### 🌐 Reach Me
 * 🔗 Email: [kimiatohidnia@gmail.com](mailto:kimiatohidnia@gmail.com)
-
----
