@@ -1,4 +1,4 @@
-# Hi, I'm Kimia 👋
+# Hi, I'm Kimia
 
 ### .NET Backend Developer
 
@@ -10,19 +10,17 @@ I'm a Computer Engineering graduate and a .NET Backend Developer.
 
 I mainly work with **C#, ASP.NET Core, and SQL Server**. I enjoy working on backend applications, learning how different parts of a system fit together, and solving problems along the way.
 
+I've also worked with **Windows Forms** and enjoy working with different parts of the .NET ecosystem.
+
 Right now, I'm focusing more on **software architecture, system design, databases, and scalable backend systems**. I'm also interested in learning how AI can be used in real-world software applications.
 
 I like learning by building things, working on real projects, and improving step by step.
 
 ### 💼 Experience
 
-**.NET Developer — Knowledge-Based Company**
+I have **2 years of work experience as a .NET Developer**, mainly working with **C#, ASP.NET Core, SQL Server, and Entity Framework Core**.
 
-Worked with **ASP.NET Core, SQL Server, and Onion Architecture**, mainly working on the Infrastructure layer and different parts of the application such as SMS/email services, examination features, and an in-system chat feature.
-
-**Software Development Intern — Mehrkam Pars**
-
-Worked with **C#, Windows Forms, and SQL Server**, contributing to database design and internal application interfaces.
+I've also worked on several **freelance projects** using these technologies, which has given me experience working on real-world applications and solving different development problems.
 
 ### 🛠️ Tech Stack
 
@@ -39,6 +37,7 @@ Worked with **C#, Windows Forms, and SQL Server**, contributing to database desi
 * Entity Framework Core
 * LINQ
 * RESTful APIs
+* Windows Forms
 
 **Architecture & Development**
 
@@ -55,13 +54,6 @@ Worked with **C#, Windows Forms, and SQL Server**, contributing to database desi
 * Relational Database Design
 * Entity Framework Core Migrations
 
-**Web**
-
-* HTML
-* CSS
-* Bootstrap
-* JavaScript / jQuery
-
 **Tools**
 
 * Git
@@ -69,15 +61,8 @@ Worked with **C#, Windows Forms, and SQL Server**, contributing to database desi
 * Visual Studio
 * SQL Server Management Studio (SSMS)
 
-### 📚 Currently Learning
 
-* Software Architecture
-* System Design
-* Distributed Systems
-* Cloud Technologies
-* AI Integration in Software Applications
+### 📫 Socials
 
-### 📫 Get in Touch
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/kimiatohidnia)
-* 📧 [kimiatohidnia@gmail.com](mailto:kimiatohidnia@gmail.com)
+* 💼 LinkedIn: kimiatohidnia
+* 📧 Email: [kimiatohidnia@gmail.com](mailto:kimiatohidnia@gmail.com)
