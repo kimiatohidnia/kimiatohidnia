@@ -66,3 +66,46 @@ I've also worked on several **freelance projects** using these technologies, whi
 
 * 💼 LinkedIn: kimiatohidnia
 * 📧 Email: [kimiatohidnia@gmail.com](mailto:kimiatohidnia@gmail.com)
+
+* ### 🛠️ Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python" />
+</p>
+
+#### Backend & .NET
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
+
+#### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" />
+</p>
+
+#### Architecture & Development
+
+* Object-Oriented Programming (OOP)
+* Onion Architecture
+* Clean Architecture
+* Dependency Injection
+* Repository Pattern
+* Design Patterns
+* RESTful APIs
+
+#### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio" />
+</p>
+
