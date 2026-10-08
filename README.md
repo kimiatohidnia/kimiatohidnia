@@ -109,3 +109,51 @@ I've also worked on several **freelance projects** using these technologies, whi
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio" />
 </p>
 
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=sql" />
+</p>
+
+**.NET & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+</p>
+
+* ASP.NET Core
+* ASP.NET Core MVC
+* Entity Framework Core
+* LINQ
+* RESTful APIs
+* Windows Forms
+
+**Architecture & Development**
+
+* Object-Oriented Programming (OOP)
+* Onion Architecture
+* Clean Architecture
+* Dependency Injection
+* Repository Pattern
+* Design Patterns
+
+**Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
+</p>
+
+* Relational Database Design
+* Entity Framework Core Migrations
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio" />
+</p>
+
+* SQL Server Management Studio (SSMS)
