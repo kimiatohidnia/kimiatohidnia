@@ -37,7 +37,7 @@ I've also worked on several **freelance projects** using these technologies, whi
 ---
 
 ### 🌐 Socials
-* 🔗 LinkedIn: kimiatohidnia
+* 🔗 [LinkedIn](https://www.linkedin.com/in/kimiatohidnia)
 * 🔗 Email: [kimiatohidnia@gmail.com](mailto:kimiatohidnia@gmail.com)
 
 ---
