@@ -28,7 +28,7 @@ I've also worked on several **freelance projects** using these technologies, whi
 
 ---
 
-* ### 🛠️ Tech Stack:
+### 🛠️ Tech Stack
   
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode" />
