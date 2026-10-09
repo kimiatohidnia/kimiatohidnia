@@ -1,7 +1,5 @@
 # Hi, I'm Kimia
 
-### .NET Backend Developer
-
 ### 👩🏻‍💻 About Me
 
 I'm a Computer Engineering graduate and a .NET Backend Developer.
